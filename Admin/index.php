@@ -12,6 +12,7 @@
                             <h2 class="font-light mb-0"><i class="ti-arrow-up text-success"></i> $120</h2>
                             <span class="text-muted">Todays Income</span>
                         </div>
+
                         <span class="text-success">80%</span>
                         <div class="progress">
                             <div class="progress-bar bg-success" role="progressbar" style="width: 80%; height: 6px;" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
@@ -19,6 +20,7 @@
                     </div>
                 </div>
             </div>
+
             <div class="col-sm-6">
                 <div class="card">
                     <div class="card-body">
@@ -52,6 +54,7 @@
     </div>
 </div>
 </div>
+
 <?php include('assets/layout/footer.php') ?>
 
 <!-- Authorpage 

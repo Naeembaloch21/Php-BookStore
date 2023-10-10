@@ -57,6 +57,7 @@ $authors = [
                         <div class="table-responsive">
                             <table class="table user-table no-wrap">
                                 <thead>
+                                    
                                     <tr>
                                         <th class="border-top-0">#</th>
                                         <th class="border-top-0">First Name</th>
