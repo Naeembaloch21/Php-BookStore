@@ -134,7 +134,6 @@
             <h3>MICHAEL ALICE</h3>
             <h4>Lightspeed Robots</h4>
             <h3>$400.00</h3>
-
             <a href="table.htm">
                 <button class="border-0 bg-danger text-light p-2 mb-3">ADD TO CARD</button>
             </a>=
